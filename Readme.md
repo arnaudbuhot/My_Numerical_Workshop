@@ -1,0 +1,38 @@
+## My first markdown file
+This is a markdown file
+### Test
+
+***Test***
+
+I like GitHub and you can find it at the following webpage: [Github](https://github.com/)
+
+![A beautifull cat](./Images/Cat.jpg)
+
+What I plan to do in the next three years:
+- First thing
+- Second thing
+- Third thing
+
+    1. List in a list
+    1. Second param
+
+
+    1. Other list
+- Fourth thing
+
+### Formula
+A well-known one: $E = mc^2$
+
+$$E = mc^2$$
+
+A python code:
+```Python code
+# This is a Python Code:
+if n == 5:
+    print(n) 
+```
+
+A bash code:
+```Bash
+ls -a
+```
