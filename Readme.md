@@ -6,7 +6,9 @@ This is a markdown file
 
 I like GitHub and you can find it at the following webpage: [Github](https://github.com/)
 
-![A beautifull cat](./Images/Cat.jpg)
+![A beautifull cat](./Images/Cat.jpg)*
+
+I done changes
 
 What I plan to do in the next three years:
 - First thing
