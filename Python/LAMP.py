@@ -1,4 +1,4 @@
-# Nearest Neighbor thermodynamics and LAMP primers and dumbbell
+# %% Nearest Neighbor thermodynamics and LAMP primers and dumbbell
 # Example of usage of functions from Definitions
 """
 LAMP sequences, NN thermodynamical parameters
