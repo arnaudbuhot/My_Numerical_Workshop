@@ -1,4 +1,4 @@
-# Definition of functions for LAMP sequences
+# %% Definition of functions for LAMP sequences
 """
 Created on Fri Jan 24 16:58:05 2025
 Version : January 24th 2025
